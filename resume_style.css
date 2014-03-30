@@ -1,0 +1,106 @@
+p {
+	color: black;
+}
+
+#list {
+	position: relative;
+	width: 600px;
+	margin-left: 10px;
+
+}
+
+
+#header {
+	position: fixed;
+	
+	right: 0px;
+
+}
+
+#image {
+
+float: right;
+
+
+
+
+
+
+
+
+	
+}
+
+#contact {
+	width: 350px;
+	height: 210px;
+
+	float: right;
+	margin-top: 15px;
+	margin-right: 20px;
+	border: 1px solid blue;
+	padding: 10px;
+	font-family: Arial;
+	text-align: center;
+	font-size: 20px;
+	color: blue;
+	float: right;
+
+
+
+	
+
+
+}
+
+
+#name {
+text-align: center;
+background-color: blue;
+color: white;
+width: 50%;
+margin: 0px auto;
+font-family: Arial;
+height: 40px;
+font-size: 30px;
+padding-top: 10px;
+margin-right: 100px;
+
+}
+
+;
+h1 {
+	
+
+
+	color: blue;
+	font-family: Arial;
+}
+
+#intro {
+	text-align: center;
+	font-family: Arial;
+	float: left;
+}
+
+
+
+h3 {
+	font-size: 25px;
+	color: blue;
+
+}
+
+h4 {
+	color: black;
+	font-family: Arial;
+	font-size: 15px;
+}
+nav {
+	position: relative;
+	margin-top: 20px;
+	font-size: 15px;
+	margin-left: 200px;
+	margin-right: 30px;
+}
+
